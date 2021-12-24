@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="log-serial:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/log_serial_jar</output-path>
+    <root id="archive" name="log-serial.jar">
+      <element id="module-output" name="log-serial" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fazecast/jSerialComm/2.7.0/jSerialComm-2.7.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
